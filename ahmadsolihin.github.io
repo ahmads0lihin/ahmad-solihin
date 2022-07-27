@@ -1,4 +1,4 @@
-<!DOCTTYPE html>
+<!DOCTYPE html>
   <html lang="en">
   <head>
      <title>Hello!</title>
